@@ -27,13 +27,13 @@ const filesEJS = {
   errorAtPostEJS,  //*
 
   loginEJS,       //*
-  productFormEJS, //!
+  productFormEJS, //TODO
   ordersEJS,      //!
 
   landingEJS,      //*
   menuEJS,         //*
-  orderingEJS,     //TODO
-  shopcartEJS,     //!
+  orderingEJS,     //*
+  shopcartEJS,     //*
   checkoutEJS,     //!
 }
   
